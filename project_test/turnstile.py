@@ -1,5 +1,5 @@
 def turnstile(song, album):
     '''
-    cool script
+    This looks like acool script
     '''
     return f'{song.capitalize()} is a song from the {album} of Turnstile'
